@@ -204,6 +204,6 @@ module_init(pchar_init);
 module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Yugandhar Narkhede");
+MODULE_AUTHOR("Shrutika Ambekar");
 MODULE_DESCRIPTION("Simple pchar driver with kfifo as device.");
 

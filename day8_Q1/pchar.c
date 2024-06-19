@@ -188,6 +188,6 @@ module_init(pchar_init);
 module_exit(pchar_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Yugandhar Anil Narkhede");
+MODULE_AUTHOR("Shrutika Ambekar");
 MODULE_DESCRIPTION("multiple pchar devices by modparam if required if not required then default 3 devices.");
 
